@@ -1,0 +1,4 @@
+ghcr.io/astral-sh/uv:python3.14-trixie
+ghcr.io/astral-sh/uv:python3.13-trixie
+ghcr.io/astral-sh/uv:python3.12-trixie
+ghcr.io/astral-sh/uv:python3.11-trixie
